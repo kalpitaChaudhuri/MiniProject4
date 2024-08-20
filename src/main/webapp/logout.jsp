@@ -14,7 +14,10 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #ffe6f0;
+             background-image: url("https://c4.wallpaperflare.com/wallpaper/513/267/636/flowers-roses-frame-petals-colorful-hd-wallpaper-preview.jpg");
+            background-size: cover;
+            background-repeat: no-repeat; 
+            background-position: center;
             color: #333;
         }
         .container {

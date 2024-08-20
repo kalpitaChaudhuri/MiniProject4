@@ -11,7 +11,10 @@
             font-family: 'Comic Sans MS', cursive, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #ffe6f0; 
+            background-image: url("https://img.freepik.com/premium-photo/close-up-pink-flower-with-word-sprinkle-it_935395-55450.jpg");
+            background-size: cover;
+            background-repeat: no-repeat; 
+            background-position: center;
             color: #333;
             display: flex;
             flex-direction: column;

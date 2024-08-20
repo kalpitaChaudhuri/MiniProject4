@@ -15,7 +15,10 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #ffebf3;
+            background-image: url("https://static.vecteezy.com/system/resources/previews/007/286/327/large_2x/pink-flower-background-that-was-invented-to-replace-real-flowers-free-photo.JPG");
+            background-size: cover;
+            background-repeat: no-repeat; 
+            background-position: center;
         }
         .container {
             background-color: #ffe6f0; 
