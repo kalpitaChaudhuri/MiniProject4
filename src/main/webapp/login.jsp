@@ -90,7 +90,7 @@
             <input type="submit" value="Login">
         </form>
         <div class="footer-text">
-            <p>Don't have an account? <a href="register.jsp" style="color: #1ABC9C;">Register here</a></p>
+            <p>Don't have an account? <a href="register.jsp" style="color: #ff6f91;">Register here</a></p>
         </div>
     </div>
 </body>
