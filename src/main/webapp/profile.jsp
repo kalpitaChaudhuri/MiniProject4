@@ -13,7 +13,7 @@
             padding: 0;
             background-image: url("https://img.freepik.com/premium-photo/close-up-pink-flower-with-word-sprinkle-it_935395-55450.jpg");
             background-size: cover;
-            background-repeat: repeat; 
+            background-repeat: no-repeat;
             background-position: center;
             color: #333;
             display: flex;
